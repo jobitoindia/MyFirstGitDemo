@@ -27,6 +27,9 @@ public class PaymentPageClass {
 	public static void substrationOfNumbers(int num1,int num2) {
 		  substration=num1+num2;
 		  System.out.println("the addition of two numbers is :" +sum);
+		  
+		  
+		  
 	}
 	
 	
